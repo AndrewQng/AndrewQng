@@ -36,7 +36,7 @@
     <td width="35%" rowspan="2" valign="top" align="center">
       <h3>Arsenal</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,js,ts,php,spring,dotnet,react,unity,godot,mysql,postgres,redis,nodejs,docker,git&perline=2&theme=dark" width="180" alt="Skill Icons" />
+        <img src="https://skillicons.dev/icons?i=java,cs,js,ts,php,spring,dotnet,react,unity,godot,mysql,postgres,redis,nodejs,docker,git&perline=2&theme=dark" width="150" alt="Skill Icons" />
       </a>
     </td>
     <td width="65%" valign="top" align="center">
