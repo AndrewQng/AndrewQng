@@ -15,16 +15,11 @@
 {
   "name": "Nguyễn Mạnh Quyền",
   "alias": "AndrewQng",
-  "education": "Hanoi University of Civil Engineering (NUCE)",
+  "education": "Hanoi University of Civil Engineering (HUCE)",
   "roles": [
     "Backend Developer", 
     "Frontend Developer", 
     "Unity Game Developer"
-  ],
-  "core_focus": [
-    "Domain-Driven Design (DDD)",
-    "Clean Architecture",
-    "SOLID Principles"
   ],
   "portfolio": "https://andrewqng.github.io/Andrew.dev/"
 }
